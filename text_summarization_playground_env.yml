@@ -1,0 +1,7 @@
+name: text-summarization-playground
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - nltk
+prefix: /Users/mykolafant/anaconda3/envs/text-summarization-playground
