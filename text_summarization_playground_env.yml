@@ -1,8 +1,11 @@
 name: text_summarization_playground
 channels:
+  - huggingface
+  - conda-forge
   - defaults
 dependencies:
   - ipython
   - jupyter
+  - datasets
   - nltk
-prefix: /Users/mykolafant/anaconda3/envs/text-summarization-playground
+prefix: /Users/mykolafant/anaconda3/envs/text_summarization_playground
