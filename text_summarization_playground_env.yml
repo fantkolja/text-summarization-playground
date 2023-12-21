@@ -8,4 +8,10 @@ dependencies:
   - jupyter
   - datasets
   - nltk
+  - spacy
+  - sumy
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pytorch
 prefix: /Users/mykolafant/anaconda3/envs/text_summarization_playground
