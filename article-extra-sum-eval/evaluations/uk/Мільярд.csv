@@ -1,0 +1,8 @@
+,summa_qa_avg_prob,summa_qa_avg_fscore,blanc_help,blanc_tune
+random_summary,,,0.5,0.5
+luhn_summary,,,0.5,0.5
+kl_summary,,,0.5,0.5
+reduction_summary,,,0.5,0.5
+text_rank_summary,,,0.0,0.0
+lex_rank_summary,,,0.5,0.0
+lsa_summary,,,0.5,0.5
